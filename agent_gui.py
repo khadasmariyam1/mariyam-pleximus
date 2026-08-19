@@ -9,7 +9,7 @@ Setup:
 Run:
   python agent_gui.py
 """
-
+#this isthe filewhich contains all theprojects integrated at once.. if u want to see em alll seperately plz refer to the files namely calculator.py currency.py weather.py and textutility.py
 import os
 import json
 import threading
